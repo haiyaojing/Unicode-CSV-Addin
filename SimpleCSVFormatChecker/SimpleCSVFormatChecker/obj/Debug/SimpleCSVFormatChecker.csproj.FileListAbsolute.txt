@@ -1,0 +1,6 @@
+C:\workspace\clientcode\ToolsProject\UnicodeCSVAddin\SimpleCSVFormatChecker\SimpleCSVFormatChecker\bin\Debug\SimpleCSVFormatChecker.exe.config
+C:\workspace\clientcode\ToolsProject\UnicodeCSVAddin\SimpleCSVFormatChecker\SimpleCSVFormatChecker\bin\Debug\SimpleCSVFormatChecker.exe
+C:\workspace\clientcode\ToolsProject\UnicodeCSVAddin\SimpleCSVFormatChecker\SimpleCSVFormatChecker\bin\Debug\SimpleCSVFormatChecker.pdb
+C:\workspace\clientcode\ToolsProject\UnicodeCSVAddin\SimpleCSVFormatChecker\SimpleCSVFormatChecker\obj\Debug\SimpleCSVFormatChecker.csproj.CoreCompileInputs.cache
+C:\workspace\clientcode\ToolsProject\UnicodeCSVAddin\SimpleCSVFormatChecker\SimpleCSVFormatChecker\obj\Debug\SimpleCSVFormatChecker.exe
+C:\workspace\clientcode\ToolsProject\UnicodeCSVAddin\SimpleCSVFormatChecker\SimpleCSVFormatChecker\obj\Debug\SimpleCSVFormatChecker.pdb
